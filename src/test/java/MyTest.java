@@ -11,6 +11,6 @@ public class MyTest {
 
     @Test
     public void test_method_2() {
-        assertTrue("ERROR: Felix muss auch mal ne Azure Pipeline aufsetzen ... ", false);
+        Assert.assertTrue("ERROR: Felix muss auch mal ne Azure Pipeline aufsetzen ... ", false);
     }
 }
