@@ -7,7 +7,6 @@ public class Demo {
             return;
         }
 
-        System.out.println("ERROR: Felix muss auch mal ne Azure Pipeline aufsetzen ... ");
-        assertFalse(false);
+        System.out.println("I am not covered");
     }
 }
